@@ -1,0 +1,9 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =7
+let g:netrw_dirhist_1='/home/abel/tarea'
+let g:netrw_dirhist_2='/home/abel/tarea/carpeta1'
+let g:netrw_dirhist_3='/home/abel/tarea'
+let g:netrw_dirhist_4='/home/abel/tarea/carpeta2'
+let g:netrw_dirhist_5='/home/abel/tarea'
+let g:netrw_dirhist_6='/home/abel/tarea/so'
+let g:netrw_dirhist_7='/home/abel/tarea'
